@@ -1,6 +1,6 @@
 body {
     background-image: url("A25mQNXjcgRi2cK68X56QnbUq91g4X6JrfVJqn6UT9NLTwGCzTJjbdGM3n7FfnNBjD1a9AxVc8SpPdd41fuyWQKosnLxNoQRQPj7JgRYTs88r2mESYu5J8NjfL4W.jpg");
-    background-size: contain;
+    background-size: fill; 
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
